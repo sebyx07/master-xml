@@ -1,0 +1,10 @@
+<persons>
+  <person>
+    <name>Andrei</name>
+    <age>18</age>
+  </person>
+  <person>
+    <name>Andreea</name>
+    <age>18</age>
+  </person>
+</persons>

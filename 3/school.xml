@@ -1,0 +1,22 @@
+<school>
+  <persons>
+    <person>
+      <name>Andrei</name>
+      <age>18</age>
+    </person>
+    <person>
+      <name>Andreea</name>
+      <age>18</age>
+    </person>
+  </persons>
+  <books>
+    <book>
+      <name>Game Of Thrones</name>
+      <number-of-pages>1300</number-of-pages>
+    </book>
+    <book>
+      <name>The Prince</name>
+      <number-of-pages>200</number-of-pages>
+    </book>
+  </books>
+</school>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+  <xsl:template match="/">
+    <html>
+      <body>
+        <h3>Book View</h3>
+        <xsl:for-each select="school/books/book[<%= index %>]">
+          <p>
+            name: <xsl:value-of select="name"/>, number of pages: <xsl:value-of select="number-of-pages"/>
+          </p>
+        </xsl:for-each>
+      </body>
+    </html>
+  </xsl:template>
+</xsl:stylesheet>
