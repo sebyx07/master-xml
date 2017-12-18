@@ -5,8 +5,20 @@
       <age>18</age>
     </person>
     <person>
-      <name>Andreea</name>
-      <age>18</age>
+      <name>Mihai</name>
+      <age>28</age>
+    </person>
+    <person>
+      <name>Andreas</name>
+      <age>38</age>
+    </person>
+    <person>
+      <name>Alex</name>
+      <age>12</age>
+    </person>
+    <person>
+      <name>Victor</name>
+      <age>55</age>
     </person>
   </persons>
   <books>
@@ -17,6 +29,22 @@
     <book>
       <name>The Prince</name>
       <number-of-pages>200</number-of-pages>
+    </book>
+    <book>
+      <name>The Prince</name>
+      <number-of-pages>200</number-of-pages>
+    </book>
+    <book>
+      <name>Harry Potter</name>
+      <number-of-pages>2330</number-of-pages>
+    </book>
+    <book>
+      <name>Master Chef</name>
+      <number-of-pages>427</number-of-pages>
+    </book>
+    <book>
+      <name>Return</name>
+      <number-of-pages>603</number-of-pages>
     </book>
   </books>
 </school>
